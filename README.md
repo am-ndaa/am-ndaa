@@ -8,6 +8,13 @@
 
 ## 🌟 Featured Projects
 
+### 🧠 [Evacumate](https://github.com/yourusername/evacumate)  
+🏆 Featured Project – Google Agent Developer Kit Challenge  
+An intelligent evacuation assistant that guides users through emergency situations in real time.  
+- Built with **React.js** for a dynamic and responsive front end  
+- Powered by **FastAPI** to manage backend logic and data flow  
+- Integrated **Google Agent Developer Kit (ADK)** for conversational AI and decision-making support  
+
 ### 📝 [Love Letter](https://github.com/haneenmustafa03/LoveLetter)
 🏆 1st Place Winner – Generative AI at WingHacks Hackathon  
 A self-love platform that encourages positivity and reflection.  
