@@ -9,7 +9,7 @@
 ## 🌟 Featured Projects
 
 ### 🧠 [Evacumate](https://github.com/yourusername/evacumate)  
-🏆 Featured Project – Google Agent Developer Kit Challenge  
+🏆 ShellHacks – Google Agent Developer Kit Challenge  
 An intelligent evacuation assistant that guides users through emergency situations in real time.  
 - Built with **React.js** for a dynamic and responsive front end  
 - Powered by **FastAPI** to manage backend logic and data flow  
